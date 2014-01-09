@@ -4,6 +4,7 @@
  */
 
 #include <array>
+#include <cstdlib>
 #include <iostream>
 #include <tuple>
 
